@@ -39,7 +39,7 @@ window.WVC = {
     countdown: {
         title: "The Big Day Approaches"
     },
-    iso: "2027-29-01T19:00:00+05:30",
+    iso: "2027-29-1T19:00:00+05:30",
     story: {
         title: "Our Story",
         paras: ["Our story did not begin with years of knowing each other. It began with a simple hello at exactly the right time.", "From the very beginning, we found comfort in the quiet moments and joy in the unexpected ones.", "As we begin this new chapter, we feel incredibly grateful to have found in each other a partner, a best friend, and an adventure companion."],
